@@ -12,4 +12,11 @@
 
 <p>Seu uso foi explicado em um tutorial no <a href="https://lameckfernandes.wordpress.com/2019/02/04/dracula-backdoor/" target="_blank">lameckfernandes.wordpress.com</a>.</p>
 
-<img src="https://www.hagmannreport.com/wp-content/uploads/2017/05/vampire-clip-art-happy-dracula.jpg" />
+<hr>
+
+### Dracula Dashboard Clean <a href="https://github.com/EuFreela/dracula-dashboard-clean">Link</a>
+### Dracula Plugins: <a href="https://github.com/EuFreela/dracula-hosts">Dracula Hosts</a>
+
+<hr>
+
+<img src="https://i.postimg.cc/wjP4MK4P/59f876c83cec115efb36237f.png" />
