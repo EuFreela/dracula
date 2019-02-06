@@ -1,4 +1,6 @@
 # Dracula
+Projeto Backdoor Dracula
+#### v1.1
 
 ### BACKDOOR
 
@@ -14,8 +16,13 @@
 
 <hr>
 
-### Dracula Dashboard Clean <a href="https://github.com/EuFreela/dracula-dashboard-clean">Link</a>
-### Dracula Plugins: <a href="https://github.com/EuFreela/dracula-hosts">Dracula Hosts</a>
+<p>Release em desenvolvimento</p>
+<p>Backups com código bateria de testes funcional</p>
+
+<hr>
+
+#### Dracula Dashboard Clean <a href="https://github.com/EuFreela/dracula-dashboard-clean">Link</a>
+#### Dracula Plugins: <a href="https://github.com/EuFreela/dracula-hosts">Dracula Hosts</a>
 
 <hr>
 
