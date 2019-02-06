@@ -23,6 +23,7 @@ Projeto Backdoor Dracula
 
 #### Dracula Dashboard Clean <a href="https://github.com/EuFreela/dracula-dashboard-clean">Link</a>
 #### Dracula Plugins: <a href="https://github.com/EuFreela/dracula-hosts">Dracula Hosts</a>
+#### Dracula Plugins: <a href="https://github.com/EuFreela/bat-servers">Dracula Bat Servers</a>
 
 <hr>
 
